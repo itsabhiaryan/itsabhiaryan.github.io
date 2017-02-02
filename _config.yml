@@ -1,0 +1,55 @@
+title: Home
+description: My Personal sits
+author: Abhishek Aryan
+github: https://github.com/itsabhiaryan
+about: Engineer, Dreamer, Programmer.. kinda in that order. Love doing stuff, even more love hearing how people love stuff I made, does not happen often though.
+disqus_shortname: itsabhiaryan
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://facebook.com/itsabhiaryan"
+    - icon: fa-twitter
+      link: "https://twitter.com/itsabhiaryan"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/abhiaryan"
+    - icon: fa-stack-exchange
+      link: "http://stackoverflow.com/users/3445320/abhishek-aryan"
+    - icon: fa-github
+      link: "https://github.com/itsabhiaryan"
+
+share:
+  twitter_username: itsabhiaryan
+  fb_appid: 1749788565247320
+
+urls:
+    - text: Games
+      url: /games/
+    - text: Apps & Tools
+      url: /apps-tools/
+    - text: About Me
+      url: /about/
+
+url: "https://itsabhiaryan.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
