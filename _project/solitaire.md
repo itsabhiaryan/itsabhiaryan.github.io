@@ -7,8 +7,8 @@ permalink: /solitaire/
 A classic Card Game. Solitaire is known as the king of all solitaire games.
 
   -  Role : designer, coder and artist
-  -  Year: 2016
-  -  Development time: 2 weeks (after work!)
+  -  Year : 2016
+  -  Development time : 2 weeks (after work!)
   -  Technology : Java language using libgdx
   -  Link : [Facebook](https://apps.facebook.com/ngsolitaire/)
 

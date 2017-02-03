@@ -10,4 +10,4 @@ What’s up, I’m Abhishek. I’m a software engineer living in India. I am a f
 
 Contributing to open source projects related to libGDX and other open source framework.
 
-email: itsabhiaryan[at]gmail.com
+email : itsabhiaryan[at]gmail.com

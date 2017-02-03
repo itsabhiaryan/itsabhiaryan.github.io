@@ -4,7 +4,7 @@ title: Games
 permalink: /games/
 ---
 
-## Games developed in nights and weekends.
+## Developed in nights and weekends.
 
 * # Unity3d
 
@@ -16,10 +16,10 @@ permalink: /games/
 
 * # libGDX
 
-  - [Spider Solitaire](/spider solitaire/) - July 5, 2016
+  - [Spider Solitaire](/spider-solitaire/) - July 5, 2016
   - [Solitaire](/solitaire/) - July 20, 2016
   - [Dots](/dots/) - Aug 8, 2016
-  - [Catch Me](/catch me/) - Aug 13, 2016
+  - [Catch Me](/catch-me/) - Aug 13, 2016
   - [2048](/2048/) - Sep 12, 2016
   - [Rolling Balls](/rolling-balls/) - Dec 4, 2016
 

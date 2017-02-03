@@ -11,7 +11,7 @@ Collection of different game logic in one place, these are not game just an expe
   -  Year : 2016
   -  Technology : Java language using libgdx 1.9.5, box-2d (physics engine)
   -  Obfuscator : obfuscation only of my own classes and packages using ProGuard
-  -  Development time: after work !
+  -  Development time : after work !
   -  Links : [Itch.io](https://itsabhiaryan.itch.io/experiments), [Android](https://dl.dropboxusercontent.com/u/47883257/Games/Experiments/Experiments.apk), [Desktop](https://dl.dropboxusercontent.com/u/47883257/Games/Experiments/Experiments.jar)
 
 Logic List

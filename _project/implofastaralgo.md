@@ -20,4 +20,4 @@ How to check this implementation
   -  Red block can be dragged and treated as a source.
   -  Green block can also dragged and treated as destination.
   -  Orange blocks are obstacles that can create when we touch blank square of board.
-  -  Blue blocks create path between source and destination when i calculate path.
+  -  Blue blocks create path between source and destination when I calculate path.

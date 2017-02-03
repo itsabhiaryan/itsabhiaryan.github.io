@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spider Solitaire
-permalink: /spider solitaire/
+permalink: /spider-solitaire/
 ---
 
 Spider Solitaire is played with two full decks, 104 cards. At the beginning 54 of the cards are divided between 10 tableaus, the first 4 tableaus have 6 cards each, the other 6 tableaus have 5 cards each. The top card of each tableau is turned face up, the others are face down.
