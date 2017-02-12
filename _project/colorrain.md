@@ -9,9 +9,9 @@ Looks the color rain and fall. Match the color of the square as they drop to the
   -  Role : designer, coder and artist
   -  Year : 2016
   -  Development time : 3 days (after work!)
-  -  Technology : c++ language using cocos2d-x framework
+  -  Technology : C++ language using cocos2d-x framework
   -  IDE & Tool : visual studio 2015, cocos studio 2
-  -  Download : [Android](https://raw.githubusercontent.com/itsabhiaryan/itsabhiaryan.github.io/master/static/games/ColorRain/ColorRain.apk), [win32](https://raw.githubusercontent.com/itsabhiaryan/itsabhiaryan.github.io/master/static/games/ColorRain/ColorRain.zip)
+  -  Download : [Android](https://dl.dropboxusercontent.com/u/47883257/Games/ColorRain/ColorRain.apk), [win32](https://dl.dropboxusercontent.com/u/47883257/Games/ColorRain/ColorRain.zip)
 
 Features
 

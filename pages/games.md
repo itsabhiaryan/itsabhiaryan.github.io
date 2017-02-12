@@ -26,6 +26,7 @@ permalink: /games/
 * # Cocos2d-x
 
   - [Color Rain](/color-rain/) - Dec 30, 2016
+  - [Bubble Popper](/bubble-popper/) - Feb 12, 2017
 
 
 
