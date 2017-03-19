@@ -33,7 +33,7 @@ share:
 
 urls:
     - text: Games
-      url: /games/
+      url: /games-oops/
     - text: Apps & Tools
       url: /apps-tools/
     - text: Privacy Policy
