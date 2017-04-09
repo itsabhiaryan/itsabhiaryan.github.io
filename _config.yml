@@ -21,7 +21,7 @@ social:
     - icon: fa-twitter
       link: "https://twitter.com/itsabhiaryan"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/abhiaryan"
+      link: "https://www.linkedin.com/in/itsabhiaryan"
     - icon: fa-stack-exchange
       link: "http://stackoverflow.com/users/3445320/abhishek-aryan"
     - icon: fa-github
@@ -47,6 +47,9 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
+exclude:
+  - vendoe
+
 gems:
   - jekyll-paginate
   - jekyll-gist
