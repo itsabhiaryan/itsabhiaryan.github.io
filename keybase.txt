@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/itsabhiaryan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://itsabhiaryan.github.io
+  * I am itsabhiaryan (https://keybase.io/itsabhiaryan) on keybase.
+  * I have a public key ASDpTx2dnYU8_1pC2GmVKAa6spZLsOUMW1w_BOZRl2EifQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e94f1d9d9d853cff5a42d869952806bab2964bb0e50c5b5c3f04e6519761227d0a",
+            "host": "keybase.io",
+            "kid": "0120e94f1d9d9d853cff5a42d869952806bab2964bb0e50c5b5c3f04e6519761227d0a",
+            "uid": "476554bffd437a2425f8369c71c52e19",
+            "username": "itsabhiaryan"
+        },
+        "service": {
+            "hostname": "itsabhiaryan.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492276553,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492276521,
+        "hash": "c0673e9fa3bfa3e8cc04955e061a1f2bd1bc94b72ea1518fc1666b7122452c3be3308ba316dd2059ea2cb475a55349daa9d3659cba0ed9f6952a61e3e210b13a",
+        "seqno": 1021312
+    },
+    "prev": "7a4754c2dde17c80ba2a1ae7a4ff5a1bf8c9a2b53667bd59fb55f4b93cb4e0d3",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6U8dnZ2FPP9aQthplSgGurKWS7DlDFtcPwTmUZdhIn0Kp3BheWxvYWTFAwR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTk0ZjFkOWQ5ZDg1M2NmZjVhNDJkODY5OTUyODA2YmFiMjk2NGJiMGU1MGM1YjVjM2YwNGU2NTE5NzYxMjI3ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTk0ZjFkOWQ5ZDg1M2NmZjVhNDJkODY5OTUyODA2YmFiMjk2NGJiMGU1MGM1YjVjM2YwNGU2NTE5NzYxMjI3ZDBhIiwidWlkIjoiNDc2NTU0YmZmZDQzN2EyNDI1ZjgzNjljNzFjNTJlMTkiLCJ1c2VybmFtZSI6Iml0c2FiaGlhcnlhbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaXRzYWJoaWFyeWFuLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkyMjc2NTUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTIyNzY1MjEsImhhc2giOiJjMDY3M2U5ZmEzYmZhM2U4Y2MwNDk1NWUwNjFhMWYyYmQxYmM5NGI3MmVhMTUxOGZjMTY2NmI3MTIyNDUyYzNiZTMzMDhiYTMxNmRkMjA1OWVhMmNiNDc1YTU1MzQ5ZGFhOWQzNjU5Y2JhMGVkOWY2OTUyYTYxZTNlMjEwYjEzYSIsInNlcW5vIjoxMDIxMzEyfSwicHJldiI6IjdhNDc1NGMyZGRlMTdjODBiYTJhMWFlN2E0ZmY1YTFiZjhjOWEyYjUzNjY3YmQ1OWZiNTVmNGI5M2NiNGUwZDMiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAfv14w+F90SqQJfQexIPgNW3E0sbA7XsI6YXYu2FpyImSkavW02ojcb1FPO06fRr8fFNy+k5yDpPGZxfLj7XwD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEtvcfvubjwjwN8iLs+YA2A5hHDD1Q1SU0ldsadmdEofo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/itsabhiaryan
+
+==================================================================
