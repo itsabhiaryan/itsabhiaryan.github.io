@@ -1,0 +1,15 @@
+{"themes": [{
+  "name": "default",
+  "colors":["83af9bff","fe4365ff","fc9d9aff","f9cdadff","c8c8a9ff"]
+},
+{
+"name": "SpringTime",
+"colors": ["35235dff", "db2464ff", "cb2402ff", "b8dc3cff", "1a71a3ff"]
+
+},
+{
+"name": "SpringTime",
+"colors": ["d082a9ff", "cbacccff", "77d4e6ff", "72bbdcff", "468cb0ff"]
+}
+]}
+

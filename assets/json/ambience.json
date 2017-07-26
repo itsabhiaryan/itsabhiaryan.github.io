@@ -1,0 +1,27 @@
+{"ambiences": [
+
+  {
+    "name": "Default",
+    "foreColor": "696969ff",
+    "strongForeColor":"323232ff",
+    "buttonColor": "fcd920ff",
+    "background": "FFFFFFff"
+  },
+
+  {
+    "name": "Black",
+    "foreColor": "FFFFFFff",
+    "strongForeColor":"808080ff",
+    "buttonColor": "323232ff",
+    "background": "000000ff"
+  },
+
+  {
+    "name": "Bloody",
+    "foreColor": "800000ff",
+    "strongForeColor":"FF0000ff",
+    "buttonColor": "323232ff",
+    "background": "000000ff"
+  }
+
+]}
