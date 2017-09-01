@@ -36,8 +36,6 @@ urls:
       url: /games-oops/
     - text: Apps & Tools
       url: /apps-tools/
-    - text: Privacy Policy
-      url: /privacy-policy/
     - text: About Me
       url: /about/
 
