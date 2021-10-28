@@ -22,17 +22,31 @@
 		"tags": ["Unity","C#","StrangeIoC","Android","iOS"]
 	},
 	{
-		"name": "ShareGif",
+		"name": "Share Gif",
 		"image": "sharegif.png",
 		"url": "/sharegif/",
 		"date": "December 2018",
 		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	},
 	{
-		"name": "Impl. of A* Algorithm",
+		"name": "Implementation of A* Algorithm",
 		"image": "maze.png",
 		"url": "/implementation-of-algorithm/",
 		"date": "December 2016",
 		"tags": ["LibGDX","Java","Android","iOS","Web"]
+	},
+	{
+		"name": "Image Box",
+		"image": "imagebox.png",
+		"url": "/imagebox/",
+		"date": "January 2019",
+		"tags": ["Flutter","Dart","Android","iOS","Web"]
+	},
+	{
+		"name": "Giffy Quotes",
+		"image": "giffyquotes.png",
+		"url": "/giffyquotes/",
+		"date": "February 2019",
+		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	}
 ]
