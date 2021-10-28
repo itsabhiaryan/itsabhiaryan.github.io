@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: maze
 title: Games
 permalink: /games-oops/
 ---

@@ -1,42 +1,38 @@
 [
 	{
 		"slug": "cool-project",
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "Plants vs. Zombies Free",
+		"image": "pvzf.png",
+		"url": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row&hl=en_IN&gl=US",
+		"date": "August 2019",
+		"tags": ["C++","Cocos","Android","iOS","Java","Objec-C"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"name": "Bejwelled Star",
+		"image": "bjs.png",
+		"url": "https://www.ea.com/games/bejeweled/bejeweled-stars",
+		"date": "September 2020",
+		"tags": ["Unity","C#","Android","iOS"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
+		"name": "Plants vs. Zombies Heroes",
+		"image": "pvzh.png",
+		"url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes",
+		"date": "August 2021",
+		"tags": ["Unity","C#","StrangeIoC","Android","iOS"]
 	},
 	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"name": "ShareGif",
+		"image": "sharegif.png",
+		"url": "/sharegif/",
+		"date": "December 2018",
+		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	},
 	{
-		"name": "Cool project 5",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"name": "Impl. of A* Algorithm",
+		"image": "maze.png",
+		"url": "/implementation-of-algorithm/",
+		"date": "December 2016",
+		"tags": ["LibGDX","Java","Android","iOS","Web"]
 	}
 ]

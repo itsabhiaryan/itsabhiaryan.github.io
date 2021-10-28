@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Welcome to LibGDX"
+date:   2013-02-19 21:28:15 +0700
+categories: [libgdx]
+---
+
+LibGDX is an open source `cross-platform` game and visualization development framework in Java. Write your game once and run it on Windows, Linux, Mac OS X, Android, iOS, and HTML5.
+
+Link to some of the favourite games made in LibGDX.
+
+ 1. [Halfway][Halfway-Steam] by Robotality
+ 2. [Zombie Age 3][ZombieAge3-PlayStore] by DivMob
+ 3. [Epic Heroes War][EpicHeroesWar-PlayStore] by DivMob
+ 4. [Tap Tap Dash][TapTapDash-PlayStore] By Cheetah Games
+ 5. [DISTRAINT: Pocket Pixel Horror][DISTRAINT-PlayStore] by  Jesse Makkonen
+ 6. [Paperama][Paperama-PlayStore] by FDG Entertainment GmbH & Co.KG
+
+
+[Paperama-PlayStore]: https://play.google.com/store/apps/details?id=com.fdgentertainment.paperama
+[Halfway-Steam]: http://store.steampowered.com/app/253150
+[ZombieAge3-PlayStore]: https://play.google.com/store/apps/details?id=com.redantz.game.zombie3
+[EpicHeroesWar-PlayStore]: https://play.google.com/store/apps/details?id=com.divmob.ageofheroes.braveheroes.battleheroes.epicheroeswar.epicheroes.en
+[TapTapDash-PlayStore]: https://play.google.com/store/apps/details?id=com.secondarm.taptapdash
+[DISTRAINT-PlayStore]: https://play.google.com/store/apps/details?id=com.winterveilstudios.DISTRAINT

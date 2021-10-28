@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: maze
 title: Implementation of A* algorithm
 permalink: /implementation-of-algorithm/
 ---

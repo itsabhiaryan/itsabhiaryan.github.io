@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <hr />
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+<div id="home">
+  <body>
+
+  <div>
+  <p>
+  	<br>
+<!--   <a href="/implementation-of-algorithm/">What is it ?</a>
+ -->
+  <div align="center" id="embed-html"></div>
+  <script type="text/javascript" src="html/html.nocache.js"></script>
+
+
+<p/>
+
+</div>
+</body>
+
+<script>
+            function handleMouseDown(evt) {
+              evt.preventDefault();
+              evt.stopPropagation();
+              evt.target.style.cursor = 'default';
+            }
+
+            function handleMouseUp(evt) {
+              evt.preventDefault();
+              evt.stopPropagation();
+              evt.target.style.cursor = '';
+            }
+            document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+            document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+     </script>
+     </div><!-- end #home -->
+
+</article>
+

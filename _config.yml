@@ -26,24 +26,26 @@ social:
       link: "http://stackoverflow.com/users/3445320/abhishek-aryan"
     - icon: fa-github
       link: "https://github.com/itsabhiaryan"
+    - icon: fa-instagram
+      link: "http://instagram.com/itsabhiaryan"
 
 share:
   twitter_username: itsabhiaryan
   fb_appid: 1749788565247320
 
 urls:
-    - text: Games
-      url: /games-oops/
-    - text: Apps & Tools
-      url: /apps-tools/
+    - text: Projects
+      url: /projects/
+    - text: External Links
+      url: /links/
     - text: About Me
       url: /about/
 
 url: "https://itsabhiaryan.github.io"
 baseurl: ""
-paginate: 20
+paginate: 21
 per_page: 20
-paginate_path: "/page:num/"
+paginate_path: "/page/:num/"
 markdown: kramdown
 exclude:
   - vendoe

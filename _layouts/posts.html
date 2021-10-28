@@ -2,23 +2,14 @@
 layout: default
 ---
 
-<div id="home">
-  <h1>{{ site.title }}</h1>
-  <hr />
-<body>
-<p>
-<div align="right">
-<img title="profile for Abhishek Aryan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" src="https://stackoverflow.com/users/flair/3445320.png?theme=dark" alt="profile for Abhishek Aryan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="58" width="208"><br>
-</div>
-</p><br>
 
-<ol class="posts">
+  <ol class="posts">
     {% for post in paginator.posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
-  
- <!-- Pagination links -->
+
+  <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
     <ul class="pagination pagination-sm">
       {% if paginator.previous_page %}
@@ -48,6 +39,3 @@ layout: default
       {% endif %}
     </ul>
   {% endif %}
-
-</body>
-</div><!-- end #home -->
