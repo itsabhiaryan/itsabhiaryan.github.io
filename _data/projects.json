@@ -48,5 +48,19 @@
 		"url": "/giffyquotes/",
 		"date": "February 2019",
 		"tags": ["Flutter","Dart","Android","iOS","Web"]
+	},
+	{
+		"name": "Bubble Shooter",
+		"image": "bubbleshooter.png",
+		"url": "/bubbleshooter/",
+		"date": "November 2020",
+		"tags": ["Godot","gdscript","Android","iOS","Web"]
+	},
+	{
+		"name": "Three Match",
+		"image": "threematch.png",
+		"url": "/threematch/",
+		"date": "September 2020",
+		"tags": ["Godot","gdscript","Android","iOS","Web"]
 	}
 ]

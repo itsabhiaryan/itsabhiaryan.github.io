@@ -1,7 +1,8 @@
 ---
-layout: imagebox
+layout: webapp
 title: ImageBox
 permalink: /imagebox/
+gamelink: ../imagebox_app/index.html
 ---
 
   -  Year : 2019

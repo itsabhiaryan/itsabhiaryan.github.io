@@ -1,7 +1,8 @@
 ---
-layout: sharegif
+layout: webapp
 title: ShareGif
 permalink: /sharegif/
+gamelink: ../sharegif_app/index.html
 ---
 
   -  Year : 2019

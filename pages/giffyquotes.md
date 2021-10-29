@@ -1,7 +1,8 @@
 ---
-layout: giffyquotes
+layout: webapp
 title: Giffy Quotes
 permalink: /giffyquotes/
+gamelink: ../giffyquotes_app/index.html
 ---
 
   -  Year : 2019
