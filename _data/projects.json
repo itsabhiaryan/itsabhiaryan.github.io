@@ -24,7 +24,7 @@
 	{
 		"name": "Share Gif",
 		"image": "sharegif.png",
-		"url": "/sharegif/",
+		"url": "https://godotbytes.web.app/projects/7-share-gif",
 		"date": "December 2018",
 		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	},
@@ -38,28 +38,28 @@
 	{
 		"name": "Image Box",
 		"image": "imagebox.png",
-		"url": "/imagebox/",
+		"url": "https://godotbytes.web.app/projects/8-image-box",
 		"date": "January 2019",
 		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	},
 	{
 		"name": "Giffy Quotes",
 		"image": "giffyquotes.png",
-		"url": "/giffyquotes/",
+		"url": "https://godotbytes.web.app/projects/9-giffy-quotes",
 		"date": "February 2019",
 		"tags": ["Flutter","Dart","Android","iOS","Web"]
 	},
 	{
 		"name": "Bubble Shooter",
 		"image": "bubbleshooter.png",
-		"url": "/bubbleshooter/",
+		"url": "https://godotbytes.web.app/projects/5-bubble-shooter",
 		"date": "November 2020",
 		"tags": ["Godot","gdscript","Android","iOS","Web"]
 	},
 	{
 		"name": "Three Match",
 		"image": "threematch.png",
-		"url": "/threematch/",
+		"url": "https://godotbytes.web.app/projects/2-three-match-puzzle",
 		"date": "September 2020",
 		"tags": ["Godot","gdscript","Android","iOS","Web"]
 	}

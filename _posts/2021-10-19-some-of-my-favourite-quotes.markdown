@@ -15,4 +15,5 @@ categories: [quote]
  * Money is cheap. Freedom is expensive.
  * Don't be afraid to start over again. This time, you're not starting from scratch, you're starting from experience.
  * Be humble, Be kind; But be a beast.
-
+ * If you don't find a way to make money while you sleep, you will work until you die.
+ * If you buy things you do not need, soon you will have to sell things you need.
