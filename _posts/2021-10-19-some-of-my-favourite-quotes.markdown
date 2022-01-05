@@ -18,3 +18,4 @@ categories: [quote]
  * Use money to gain control over your time, because not having control of your time is such a powerful and universal drag on happiness. The ability to do what you want, when you want, with who you want, for as long as you want to, pays the highest dividend that exists in finance. - `Morgan Housel`
  * If you don't find a way to make money while you sleep, you will work until you die. - `Warren Buffett`
  * If you buy things you do not need, soon you will have to sell things you need. - `Warren Buffet`
+ * Money will get you assets. Assets will get you freedom.
