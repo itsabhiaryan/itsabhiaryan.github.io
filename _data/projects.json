@@ -22,45 +22,10 @@
 		"tags": ["Unity","C#","StrangeIoC","Android","iOS"]
 	},
 	{
-		"name": "Share Gif",
-		"image": "sharegif.png",
-		"url": "https://godotbytes.web.app/projects/7-share-gif",
-		"date": "December 2018",
-		"tags": ["Flutter","Dart","Android","iOS","Web"]
-	},
-	{
 		"name": "Implementation of A* Algorithm",
 		"image": "maze.png",
 		"url": "/implementation-of-algorithm/",
 		"date": "December 2016",
 		"tags": ["LibGDX","Java","Android","iOS","Web"]
-	},
-	{
-		"name": "Image Box",
-		"image": "imagebox.png",
-		"url": "https://godotbytes.web.app/projects/8-image-box",
-		"date": "January 2019",
-		"tags": ["Flutter","Dart","Android","iOS","Web"]
-	},
-	{
-		"name": "Giffy Quotes",
-		"image": "giffyquotes.png",
-		"url": "https://godotbytes.web.app/projects/9-giffy-quotes",
-		"date": "February 2019",
-		"tags": ["Flutter","Dart","Android","iOS","Web"]
-	},
-	{
-		"name": "Bubble Shooter",
-		"image": "bubbleshooter.png",
-		"url": "https://godotbytes.web.app/projects/5-bubble-shooter",
-		"date": "November 2020",
-		"tags": ["Godot","gdscript","Android","iOS","Web"]
-	},
-	{
-		"name": "Three Match",
-		"image": "threematch.png",
-		"url": "https://godotbytes.web.app/projects/2-three-match-puzzle",
-		"date": "September 2020",
-		"tags": ["Godot","gdscript","Android","iOS","Web"]
 	}
 ]
