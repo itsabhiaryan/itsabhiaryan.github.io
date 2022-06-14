@@ -19,3 +19,4 @@ categories: [quote]
  * If you don't find a way to make money while you sleep, you will work until you die. - `Warren Buffett`
  * If you buy things you do not need, soon you will have to sell things you need. - `Warren Buffet`
  * Money will get you assets. Assets will get you freedom.
+ * Too many people spend money they haven’t earned, to buy things they don’t want, to impress people they don’t like. - Will Rogers, 1879.
