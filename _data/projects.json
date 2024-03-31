@@ -27,5 +27,12 @@
 		"url": "/implementation-of-algorithm/",
 		"date": "December 2016",
 		"tags": ["LibGDX","Java","Android","iOS","Web"]
+	},
+	{
+		"name": "Parallel",
+		"image": "parallel.png",
+		"url": "https://parallel.life",
+		"date": "Dec 2023",
+		"tags": ["Unity","C#"]
 	}
 ]

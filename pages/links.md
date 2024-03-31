@@ -4,6 +4,6 @@ title: External Links
 permalink: /links/
 ---
 
-  - [Bitter Logic](https://bitterlogic.github.io)
   - [itsabhiaryan.itch.io](https://itsabhiaryan.itch.io)
-  - [libgdxindia](https://libgdxindia.web.app)
+  - [LibGDX Developers](https://libgdxdev.web.app)
+  - [Godot Developers](https://godotdevelopers.web.app)
