@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Unity"
+date:   2024-04-04 21:28:15 +0700
+categories: [unity]
+---
+
+Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine.
+
+Link to some of the games made in Unity.
+
+ 1. [Pokémon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) by Niantic
+- Platform : Android, iOS
+
+ 2. [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone) by Blizzard Entertainment
+ - Platform : Windows, MacOS, iOS, Android
+
+ 3. [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber) by Oculus Development Team
+- Platform : Windows, PlayStation 4, PlayStation 5, Meta Quest
+
+ 4. [Among Us](https://en.wikipedia.org/wiki/Among_Us) By Innersloth
+- Platform : Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Android, iOS
+
+ 5. [Rust](https://en.wikipedia.org/wiki/Rust_(video_game)) by Facepunch Studios
+- Platform : MacOS, Windows, PlayStation 4, Xbox One
+
+External Links :
+
+* [https://gamerant.com/best-games-made-unity/](https://gamerant.com/best-games-made-unity/)
+
+
+

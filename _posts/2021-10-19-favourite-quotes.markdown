@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some of my favourite quotes"
+title:  "Favourite quotes"
 date:   2021-10-19 21:28:15 +0700
 categories: [quote]
 ---
